@@ -1,0 +1,54 @@
+h1, h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 84.69%;
+    text-transform: uppercase;
+}
+
+h1, h2{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+h1{
+    font-size: 35px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+h3{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: center;
+}
+
+li{
+    font-family: Times New Roman;
+    font-size: 15px;
+    line-height: 84.69%;
+}
+span{
+    font-weight: bold;
+}
+
+.italic {font-style: italic;}
+
+footer {
+    background-color: #005677;
+}
+
+header{
+    background-color: #E5E5E5;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
